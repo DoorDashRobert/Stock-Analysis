@@ -1,5 +1,5 @@
 # Module 2 - Challenge
-Refactor VBA Code and Measure Performance
+Refactoring VBA Code while providing a Measure Performance
 
 ## Overview of Project
 
